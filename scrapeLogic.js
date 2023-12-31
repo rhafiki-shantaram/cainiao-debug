@@ -59,5 +59,6 @@ const scrapeLogic = async(res) => {
     await browser.close();
 
 };
+}
 
 module.exports = { scrapeLogic };    
